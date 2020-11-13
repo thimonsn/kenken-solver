@@ -1,2 +1,2 @@
 "# kenken-solver" 
-Please review read_me.txt
+please review read_me.txt
